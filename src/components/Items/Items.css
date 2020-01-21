@@ -1,0 +1,29 @@
+.items-tab-container{
+  height: 892px;
+  width: 1710px;
+  position: relative;
+  left: 205px;
+  overflow: hidden;
+}
+
+.input-form-container{
+  border: 2px solid gray;
+  width: 350px;
+  height: auto;
+  margin-left: 70px;
+  padding: 15px;
+  padding-right: 90px;
+  text-align: end;
+  border-radius: 10px;
+  font-size: 20px;
+  overflow: hidden;
+  position: relative;
+}
+
+.subtab{
+  margin-left: 70px;
+}
+
+.subtab-container{
+  display: flex;
+}

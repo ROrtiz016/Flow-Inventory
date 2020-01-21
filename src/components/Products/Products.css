@@ -1,0 +1,11 @@
+.products-tab-container{
+    height: 892px;
+    width: 1710px;
+    position: relative;
+    left: 205px;
+    overflow: hidden;
+  }
+
+  .sub-tab-container{
+      display: flex;
+  }

@@ -1,0 +1,57 @@
+.dashboard-container{
+  position: relative;
+  height: 890px;
+  width: 1710px;
+  /* border: 1px solid violet; */
+  left: 205px;
+  overflow: hidden;
+}
+
+.sales-activity{
+  margin: 70px;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: rgb(58, 57, 57);
+}
+
+.sales-tabs{
+  height: 180px;
+  width: 1600px;
+  /* border: 1px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.sale-info-tab{
+  height: 135px;
+  width: 160px;
+  border: 2px solid rgb(163, 163, 163);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.Inv-summary-container{
+  margin-left: 100px;
+  margin-right: 100px;
+  border: 2px solid rgb(163, 163, 163);
+  width: 300px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.prod-details-container{
+  height: 300px;
+  width: 700px;
+  border: 2px solid rgb(163, 163, 163);
+  margin-left: 70px;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 10px;
+  align-items: center; 
+}
+
+.items-det-cont{
+  line-height: 60px;
+  font-size: 20px;
+}

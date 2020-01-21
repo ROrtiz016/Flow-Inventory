@@ -1,0 +1,23 @@
+.Home-container{
+  overflow: hidden;
+  height: 99.86vh;
+  width: 1918px;
+  position: relative;
+  /* border: 1px solid purple; */
+}
+
+.home-div{
+  height:200px;
+  width: 1200px;
+  /* border: 1px solid purple; */
+  position: relative;
+  left: 205px;
+  padding: 200px;
+  text-align: center;
+  font-size: 34px;
+
+}
+
+@keyframes welcome{
+  
+}

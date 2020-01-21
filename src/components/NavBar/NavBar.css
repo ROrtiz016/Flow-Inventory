@@ -1,0 +1,53 @@
+.Navbar-container{
+  position: absolute;
+  top: 0px;
+  height: 100vh;
+  width: 180px;
+  /* border: 1px solid blue; */
+  background: rgb(83, 82, 82);
+  text-align: right;
+  padding-right: 25px;
+}
+
+.tab-container{
+  height: 400px;
+  /* border: 1px solid red; */
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+}
+
+.tab-name{
+  color: white;
+}
+
+#app-name{
+  font-size: 44px;
+  color: rgb(10, 235, 179);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 28px;
+}
+
+.Logo{
+  height: 40px;
+  margin-left: 10px;
+  animation-name: rotate;
+  animation-duration: 2s;
+  position: relative;
+}
+
+@keyframes rotate{
+  0%{transform: rotate(0deg);}
+  100%{transform: rotate(360deg);}
+}
+
+.tab-link{
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.tab-link:hover{
+  color: rgb(10, 235, 179)
+}

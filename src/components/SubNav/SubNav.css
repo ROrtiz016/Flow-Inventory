@@ -1,0 +1,36 @@
+.subnav-container{
+  height: 40px;
+  width: 89%;
+  border: 1px solid lightgray;
+  background: lightgray;
+  position: relative;
+  left: 205px;
+  display: flex;
+  align-items: center;
+  justify-content:space-between
+}
+
+.input-bar{
+  border-radius: 8px;
+}
+
+.search-bar{
+  margin-left: 30px;
+}
+
+.user-info{
+  display: flex;
+  align-items: center;
+  margin-right: 50px;
+  width: 150px;
+  display: flex;
+  justify-content: space-between
+}
+
+.settings-icon{
+  height: 25px;
+}
+
+.user-icon{
+  height: 30px;
+}

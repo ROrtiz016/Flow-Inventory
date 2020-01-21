@@ -1,0 +1,29 @@
+.Login-container{
+  height: 450px;
+  width: 500px; 
+  margin: auto;
+  margin-top: 150px;
+  /* border: 1px solid blue; */
+  background: rgb(10, 235, 179);
+  text-align: center;
+  padding: 80px;
+  border-radius: 10px;
+}
+
+.App-name{
+  font-family: 'Courgette', cursive;
+  font-size: 78px;
+}
+
+.user-inputs{
+  text-align: right;
+  /* border: 1px solid blue; */
+  height: 100px;
+  width: 280px;
+  margin: auto;
+}
+
+.path-login{
+  text-decoration: none;
+  color: black;
+}
